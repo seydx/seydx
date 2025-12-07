@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/34152761?v=4" />
+  <img height="100" src="https://avatars.githubusercontent.com/u/34152761?v=4" />
   
   # seydx
   
