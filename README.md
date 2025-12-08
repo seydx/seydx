@@ -18,8 +18,4 @@
   <a href="https://t.me/seydx" target="_blank">  
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="20" alt="telegram logo"  />
   </a>
-
-  <a href="https://www.npmjs.com/~seydx" target="_blank">  
-    <img src="https://raw.githubusercontent.com/npm/logos/refs/heads/master/npm%20logo/classic/npm-2009.png" width="32" height="20" alt="npm logo"  />
-  </a>
 </div>
